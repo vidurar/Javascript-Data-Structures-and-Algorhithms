@@ -1,4 +1,4 @@
-//LINKEDIN LISTS
+//LINKED LISTS
 //In a nutshell: like an array except instead of being stored
 //in one big block of memory, each element is stored at a
 //different place in memory, and the list is held together
@@ -474,4 +474,4 @@ double.remove(0);
   //head instead of null
 
   //A circular doubly linked list has a tail.next value pointing to the
-  //head instead of null, and a head.prev pointing to the tail 
+  //head instead of null, and a head.prev pointing to the tail
